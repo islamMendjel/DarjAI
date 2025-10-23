@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Perfect 👌 here’s a **professional English version** of your `README.md` for the **CChatbot** project — clean, modern, and GitHub-ready:
 
 ---
@@ -99,3 +100,8 @@ React handles the chat interface, Flask processes requests and responses, and th
 
 Would you like me to make it **more technical**, with details about the request/response API routes (like `/api/chat`) and example JSON payloads?
 That would make it look like a real AI API documentation.
+=======
+# LIG-Team-project
+project
+ai chatbot 
+>>>>>>> 26f5c895879536a57edfd31ac11e43c85fe97457
