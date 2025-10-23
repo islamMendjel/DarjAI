@@ -1,3 +1,4 @@
+# <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 # 🧠 CChatbot — Algerian Dialect Chatbot 🇩🇿
 
 ### ⚙️ Overview
