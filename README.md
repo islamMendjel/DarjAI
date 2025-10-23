@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Perfect 👌 here’s a **professional English version** of your `README.md` for the **CChatbot** project — clean, modern, and GitHub-ready:
-
----
-
 # 🧠 CChatbot — Algerian Dialect Chatbot 🇩🇿
 
 ### ⚙️ Overview
