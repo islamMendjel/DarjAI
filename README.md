@@ -92,7 +92,6 @@ http://localhost:5173
 
 React handles the chat interface, Flask processes requests and responses, and the backend logic generates dialect-based replies.
 
-=======
 # LIG-Team-project
 project
 ai chatbot 
