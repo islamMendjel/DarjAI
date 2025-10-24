@@ -92,12 +92,11 @@ http://localhost:5173
 
 React handles the chat interface, Flask processes requests and responses, and the backend logic generates dialect-based replies.
 
----
-
-Would you like me to make it **more technical**, with details about the request/response API routes (like `/api/chat`) and example JSON payloads?
-That would make it look like a real AI API documentation.
 =======
 # LIG-Team-project
 project
 ai chatbot 
 >>>>>>> 26f5c895879536a57edfd31ac11e43c85fe97457
+
+![](https://github.com/idimetrix/BEPb/blob/main/assets/Bottom_down.svg)
+>>>>>>> 
